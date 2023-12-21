@@ -1,2 +1,3 @@
-# React_Testing
-React Test Driven Development (TDD) using Jest / Enzyme
+# Learning@TheOdinProject
+
+Learning progess @ The Odin Project
