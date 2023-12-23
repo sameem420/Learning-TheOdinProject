@@ -8,3 +8,4 @@ Everyday learning progress @ The Odin Project
 | 2 | Foundations | Introduction to Web Development |
 | 3 | Foundations | Motivation and Mindset |
 | 4 | Foundations | Asking For Help |
+| 4 | Foundations | Join the Odin Community |
