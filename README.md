@@ -11,3 +11,4 @@ Everyday learning progress @ The Odin Project
 | 4 | Foundations | Join the Odin Community |
 | 5 | Foundations | Computer Basics |
 | 6 | Foundations | How Does the Web Work? |
+| 7 | Foundations | Installation Overview |
