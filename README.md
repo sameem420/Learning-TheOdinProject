@@ -1,6 +1,6 @@
-# Learning@TheOdinProject
+# Learning@TheOdinProject  :triangular_flag_on_post:
 
-Everyday learning progress @ The Odin Project
+### Everyday learning progress @ The Odin Project
 
 | Day # | Section | Sub-Section | Topic |
 |-------|:-------:|------------:|------:|
@@ -13,3 +13,4 @@ Everyday learning progress @ The Odin Project
 | 6 | Foundations | 🔵 Prerequisites | How Does the Web Work? |
 | 7 | Foundations | 🔵 Prerequisites | Installation Overview |
 | 8 | Foundations | 🔵 Prerequisites | Installations |
+| 9 | Foundations | 🔵 Prerequisites | Text Editors |
