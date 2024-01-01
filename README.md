@@ -14,4 +14,5 @@
 | 7️⃣ | Foundations | 🔵 Prerequisites | Installation Overview |
 | 8️⃣ | Foundations | 🔵 Prerequisites | Installations |
 | 9️⃣ | Foundations | 🔵 Prerequisites | Text Editors |
-| 1️⃣0️⃣| Foundations | 🔵 Prerequisites | Command Line Basics |
+| 1️⃣0️⃣ | Foundations | 🔵 Prerequisites | Command Line Basics |
+| 1️⃣1️⃣ | Foundations | 🔵 Prerequisites | Setting up Git |
