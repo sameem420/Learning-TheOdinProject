@@ -16,3 +16,4 @@
 | 9️⃣ | Foundations | 🔵 Prerequisites | Text Editors |
 | 1️⃣0️⃣ | Foundations | 🔵 Prerequisites | Command Line Basics |
 | 1️⃣1️⃣ | Foundations | 🔵 Prerequisites | Setting up Git |
+| 1️⃣2️⃣ | Foundations | 🔵 Prerequisites | Introduction to Git |
