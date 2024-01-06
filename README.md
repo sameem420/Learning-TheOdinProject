@@ -18,3 +18,4 @@
 | 1️⃣1️⃣ | Foundations | 🔵 Prerequisites | Setting up Git |
 | 1️⃣2️⃣ | Foundations | ⚫ Git Basics | Introduction to Git |
 | 1️⃣3️⃣ | Foundations | ⚫ Git Basics | Git Basics |
+| 1️⃣4️⃣ | Foundations | 🔴 HTML Foundations | Introduction to HTML and CSS |
