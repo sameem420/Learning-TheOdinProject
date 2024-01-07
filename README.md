@@ -14,8 +14,9 @@
 | 7️⃣ | Foundations | 🔵 Prerequisites | Installation Overview |
 | 8️⃣ | Foundations | 🔵 Prerequisites | Installations |
 | 9️⃣ | Foundations | 🔵 Prerequisites | Text Editors |
-| 1️⃣0️⃣ | Foundations | 🔵 Prerequisites | Command Line Basics |
-| 1️⃣1️⃣ | Foundations | 🔵 Prerequisites | Setting up Git |
-| 1️⃣2️⃣ | Foundations | ⚫ Git Basics | Introduction to Git |
-| 1️⃣3️⃣ | Foundations | ⚫ Git Basics | Git Basics |
-| 1️⃣4️⃣ | Foundations | 🔴 HTML Foundations | Introduction to HTML and CSS |
+| 1️⃣ 0️⃣ | Foundations | 🔵 Prerequisites | Command Line Basics |
+| 1️⃣ 1️⃣ | Foundations | 🔵 Prerequisites | Setting up Git |
+| 1️⃣ 2️⃣ | Foundations | ⚫ Git Basics | Introduction to Git |
+| 1️⃣ 3️⃣ | Foundations | ⚫ Git Basics | Git Basics |
+| 1️⃣ 4️⃣ | Foundations | 🔴 HTML Foundations | Introduction to HTML and CSS |
+| 1️⃣ 5️⃣ | Foundations | 🔴 HTML Foundations | Elements and Tags |
