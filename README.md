@@ -20,3 +20,4 @@
 | 1️⃣ 3️⃣ | Foundations | ⚫ Git Basics | Git Basics |
 | 1️⃣ 4️⃣ | Foundations | 🔴 HTML Foundations | Introduction to HTML and CSS |
 | 1️⃣ 5️⃣ | Foundations | 🔴 HTML Foundations | Elements and Tags |
+| 1️⃣ 6️⃣ | Foundations | 🔴 HTML Foundations | HTML Boilerplate |
