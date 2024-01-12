@@ -22,3 +22,4 @@
 | 1️⃣ 5️⃣ | Foundations | 🔴 HTML Foundations | Elements and Tags |
 | 1️⃣ 6️⃣ | Foundations | 🔴 HTML Foundations | HTML Boilerplate |
 | 1️⃣ 7️⃣ | Foundations | 🔴 HTML Foundations | Working with Text |
+| 1️⃣ 8️⃣ | Foundations | 🔴 HTML Foundations | Lists |
