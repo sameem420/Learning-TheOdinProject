@@ -25,3 +25,5 @@
 | 1️⃣ 8️⃣ | Foundations | 🔴 HTML Foundations | Lists |
 | 1️⃣ 9️⃣ | Foundations | 🔴 HTML Foundations | Links and Images |
 | 2️⃣ 0️⃣ | Foundations | 🔴 HTML Foundations | Commit Messages |
+| 2️⃣ 1️⃣ | Foundations | 🔴 HTML Foundations | Project: Recipes |
+
