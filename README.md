@@ -27,3 +27,8 @@
 | 2️⃣ 0️⃣ | Foundations | 🔴 HTML Foundations | Commit Messages |
 | 2️⃣ 1️⃣ | Foundations | 🔴 HTML Foundations | Project: Recipes |
 
+
+
+| Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
+|-------|:-------:|------------:|------:|
+| 1️⃣ | Foundations | 🟥 HTML | [Odin Recipes](https://sameem420.github.io/Learning-TheOdinProject/HTML/odin-recipes/) |
