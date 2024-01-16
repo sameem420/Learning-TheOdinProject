@@ -9,13 +9,13 @@
 | 3️⃣ | Foundations | 🟢 Introduction | Motivation and Mindset |
 | 4️⃣ | Foundations | 🟢 Introduction | Asking For Help |
 | 4️⃣ | Foundations | 🟢 Introduction | Join the Odin Community |
-| 5️⃣ | Foundations | 🔵 Prerequisites | Computer Basics |
-| 6️⃣ | Foundations | 🔵 Prerequisites | How Does the Web Work? |
-| 7️⃣ | Foundations | 🔵 Prerequisites | Installation Overview |
-| 8️⃣ | Foundations | 🔵 Prerequisites | Installations |
-| 9️⃣ | Foundations | 🔵 Prerequisites | Text Editors |
-| 1️⃣ 0️⃣ | Foundations | 🔵 Prerequisites | Command Line Basics |
-| 1️⃣ 1️⃣ | Foundations | 🔵 Prerequisites | Setting up Git |
+| 5️⃣ | Foundations | 🟠 Prerequisites | Computer Basics |
+| 6️⃣ | Foundations | 🟠 Prerequisites | How Does the Web Work? |
+| 7️⃣ | Foundations | 🟠 Prerequisites | Installation Overview |
+| 8️⃣ | Foundations | 🟠 Prerequisites | Installations |
+| 9️⃣ | Foundations | 🟠 Prerequisites | Text Editors |
+| 1️⃣ 0️⃣ | Foundations | 🟠 Prerequisites | Command Line Basics |
+| 1️⃣ 1️⃣ | Foundations | 🟠 Prerequisites | Setting up Git |
 | 1️⃣ 2️⃣ | Foundations | ⚫ Git Basics | Introduction to Git |
 | 1️⃣ 3️⃣ | Foundations | ⚫ Git Basics | Git Basics |
 | 1️⃣ 4️⃣ | Foundations | 🔴 HTML Foundations | Introduction to HTML and CSS |
@@ -26,7 +26,7 @@
 | 1️⃣ 9️⃣ | Foundations | 🔴 HTML Foundations | Links and Images |
 | 2️⃣ 0️⃣ | Foundations | 🔴 HTML Foundations | Commit Messages |
 | 2️⃣ 1️⃣ | Foundations | 🔴 HTML Foundations | Project: Recipes |
-
+| 2️⃣ 2️⃣ | Foundations | 🔵 CSS Foundations | Intro to CSS |
 
 
 | Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
