@@ -27,6 +27,10 @@
 | 2️⃣ 0️⃣ | Foundations | 🔴 HTML Foundations | Commit Messages |
 | 2️⃣ 1️⃣ | Foundations | 🔴 HTML Foundations | Project: Recipes |
 | 2️⃣ 2️⃣ | Foundations | 🔵 CSS Foundations | Intro to CSS |
+| 2️⃣ 3️⃣ | Foundations | 🔵 CSS Foundations | The Cascade |
+
+
+
 
 
 | Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
