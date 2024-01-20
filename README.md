@@ -28,6 +28,9 @@
 | 2️⃣ 1️⃣ | Foundations | 🔴 HTML Foundations | Project: Recipes |
 | 2️⃣ 2️⃣ | Foundations | 🔵 CSS Foundations | Intro to CSS |
 | 2️⃣ 3️⃣ | Foundations | 🔵 CSS Foundations | The Cascade |
+| 2️⃣ 4️⃣ | Foundations | 🔵 CSS Foundations | Inspecting HTML and CSS |
+
+
 
 
 
