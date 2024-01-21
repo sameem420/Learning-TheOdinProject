@@ -29,7 +29,7 @@
 | 2️⃣ 2️⃣ | Foundations | 🔵 CSS Foundations | Intro to CSS |
 | 2️⃣ 3️⃣ | Foundations | 🔵 CSS Foundations | The Cascade |
 | 2️⃣ 4️⃣ | Foundations | 🔵 CSS Foundations | Inspecting HTML and CSS |
-
+| 2️⃣ 5️⃣ | Foundations | 🔵 CSS Foundations | The Box Model |
 
 
 
