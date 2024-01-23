@@ -1,0 +1,16 @@
+.odd_element {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjust_font {
+  font-size: 24px;
+}
+#sec_element {
+  color: blue;
+  font-size: 36px;
+}
+#frth_element {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
