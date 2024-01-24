@@ -31,7 +31,7 @@
 | 2️⃣ 4️⃣ | Foundations | 🔵 CSS Foundations | Inspecting HTML and CSS |
 | 2️⃣ 5️⃣ | Foundations | 🔵 CSS Foundations | The Box Model |
 | 2️⃣ 6️⃣ | Foundations | 🔵 CSS Foundations | Block and Inline |
-
+| 2️⃣ 7️⃣ | Foundations | 🔵 Flexbox | Introduction to Flexbox |
 
 
 
