@@ -33,6 +33,7 @@
 | 2️⃣ 6️⃣ | Foundations | 🔵 CSS Foundations | Block and Inline |
 | 2️⃣ 7️⃣ | Foundations | 🔵 Flexbox | Introduction to Flexbox |
 | 2️⃣ 8️⃣ | Foundations | 🔵 Flexbox | Growing and Shrinking |
+| 2️⃣ 9️⃣ | Foundations | 🔵 Flexbox | Axes |
 
 
 
