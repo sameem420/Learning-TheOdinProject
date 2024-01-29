@@ -34,6 +34,7 @@
 | 2️⃣ 7️⃣ | Foundations | 🔵 Flexbox | Introduction to Flexbox |
 | 2️⃣ 8️⃣ | Foundations | 🔵 Flexbox | Growing and Shrinking |
 | 2️⃣ 9️⃣ | Foundations | 🔵 Flexbox | Axes |
+| 2️⃣ 9️⃣ | Foundations | 🔵 Flexbox | Alignment |
 
 
 
