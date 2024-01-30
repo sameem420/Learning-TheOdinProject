@@ -35,6 +35,7 @@
 | 2️⃣ 8️⃣ | Foundations | 🔵 Flexbox | Growing and Shrinking |
 | 2️⃣ 9️⃣ | Foundations | 🔵 Flexbox | Axes |
 | 2️⃣ 9️⃣ | Foundations | 🔵 Flexbox | Alignment |
+| 3️⃣ 0️⃣ | Foundations | 🔵 Flexbox | Project: Landing Page |
 
 
 
@@ -43,3 +44,4 @@
 | Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
 |-------|:-------:|------------:|------:|
 | 1️⃣ | Foundations | 🟥 HTML | [Odin Recipes](https://sameem420.github.io/Learning-TheOdinProject/HTML/odin-recipes/) |
+| 2️⃣ | Foundations | 🟦 CSS | [Landing Page](https://sameem420.github.io/Learning-TheOdinProject/CSS/landing-page/) |
