@@ -125,3 +125,44 @@ a {
 blockquote h5 {
   font-style: normal;
 }
+.action {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: #f9faf8;
+}
+.action section {
+  margin: 6em 12em;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882f6;
+  color: #e5e7eb;
+}
+.action-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.action-title {
+  margin-top: 2em;
+}
+.action-desc {
+  margin-bottom: 2em;
+}
+.action-title h2 {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+}
+.action-desc h5 {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+  color: #e5e7eb !important;
+}
+.action-btn {
+  border: 1px solid white;
+}
