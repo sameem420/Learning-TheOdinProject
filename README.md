@@ -37,6 +37,7 @@
 | 2️⃣ 9️⃣ | Foundations | 🔵 Flexbox | Alignment |
 | 3️⃣ 0️⃣ | Foundations | 🔵 Flexbox | Project: Landing Page |
 | 3️⃣ 1️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 1 |
+| 3️⃣ 2️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 2 | 
 
 
 
