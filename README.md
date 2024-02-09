@@ -38,7 +38,7 @@
 | 3️⃣ 0️⃣ | Foundations | 🔵 Flexbox | Project: Landing Page |
 | 3️⃣ 1️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 1 |
 | 3️⃣ 2️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 2 | 
-
+| 3️⃣ 3️⃣ | Foundations | 🟡 JavaScript Basics | JavaScript Developer Tools |
 
 
 
