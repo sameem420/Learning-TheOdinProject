@@ -39,6 +39,7 @@
 | 3️⃣ 1️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 1 |
 | 3️⃣ 2️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 2 | 
 | 3️⃣ 3️⃣ | Foundations | 🟡 JavaScript Basics | JavaScript Developer Tools |
+| 3️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 3 |
 
 
 
