@@ -36,10 +36,10 @@
 | 2️⃣ 9️⃣ | Foundations | 🔵 Flexbox | Axes |
 | 2️⃣ 9️⃣ | Foundations | 🔵 Flexbox | Alignment |
 | 3️⃣ 0️⃣ | Foundations | 🔵 Flexbox | Project: Landing Page |
-| 3️⃣ 1️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 1 |
-| 3️⃣ 2️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 2 | 
+| 3️⃣ 1️⃣ | Foundations | 🟡 JavaScript Basics | Variables and Operators |
+| 3️⃣ 2️⃣ | Foundations | 🟡 JavaScript Basics | Data Types and Conditionals | 
 | 3️⃣ 3️⃣ | Foundations | 🟡 JavaScript Basics | JavaScript Developer Tools |
-| 3️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Fundamentals Part 3 |
+| 3️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Function Basics |
 | 3️⃣ 5️⃣ | Foundations | 🟡 JavaScript Basics | Problem Solving |
 
 
