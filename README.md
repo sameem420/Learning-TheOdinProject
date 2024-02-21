@@ -41,6 +41,7 @@
 | 3️⃣ 3️⃣ | Foundations | 🟡 JavaScript Basics | JavaScript Developer Tools |
 | 3️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Function Basics |
 | 3️⃣ 5️⃣ | Foundations | 🟡 JavaScript Basics | Problem Solving |
+| 3️⃣ 6️⃣ | Foundations | 🟡 JavaScript Basics | Understanding Errors |
 
 
 
