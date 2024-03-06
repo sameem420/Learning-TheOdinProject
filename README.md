@@ -52,3 +52,4 @@
 |-------|:-------:|------------:|------:|
 | 1️⃣ | Foundations | 🟥 HTML | [Odin Recipes](https://sameem420.github.io/Learning-TheOdinProject/HTML/odin-recipes/) |
 | 2️⃣ | Foundations | 🟦 CSS | [Landing Page](https://sameem420.github.io/Learning-TheOdinProject/CSS/landing-page/) |
+| 3️⃣ | Foundations | 🟨 JavaScript | [Rock Paper Scissors](https://sameem420.github.io/Learning-TheOdinProject/JavaScript/rock-paper-scissors/) |
