@@ -42,9 +42,9 @@
 | 3️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Function Basics |
 | 3️⃣ 5️⃣ | Foundations | 🟡 JavaScript Basics | Problem Solving |
 | 3️⃣ 6️⃣ | Foundations | 🟡 JavaScript Basics | Understanding Errors |
-| 3️⃣ 7️⃣ | Foundations | 🟡 JavaScript Basics | Clean Code |
-| 3️⃣ 8️⃣ | Foundations | 🟡 JavaScript Basics | Installing Node.js |
-
+| 3️⃣ 7️⃣ | Foundations | 🟡 JavaScript Basics | Project: Rock Paper Scissors |
+| 3️⃣ 8️⃣ | Foundations | 🟡 JavaScript Basics | Clean Code |
+| 3️⃣ 9️⃣ | Foundations | 🟡 JavaScript Basics | Installing Node.js |
 
 
 
