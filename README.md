@@ -42,9 +42,9 @@
 | 3️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Function Basics |
 | 3️⃣ 5️⃣ | Foundations | 🟡 JavaScript Basics | Problem Solving |
 | 3️⃣ 6️⃣ | Foundations | 🟡 JavaScript Basics | Understanding Errors |
-| 3️⃣ 7️⃣ | Foundations | 🟡 JavaScript Basics | Clean Code |
-| 3️⃣ 8️⃣ | Foundations | 🟡 JavaScript Basics | Installing Node.js |
-
+| 3️⃣ 7️⃣ | Foundations | 🟡 JavaScript Basics | Project: Rock Paper Scissors |
+| 3️⃣ 8️⃣ | Foundations | 🟡 JavaScript Basics | Clean Code |
+| 3️⃣ 9️⃣ | Foundations | 🟡 JavaScript Basics | Installing Node.js |
 
 
 
@@ -52,3 +52,4 @@
 |-------|:-------:|------------:|------:|
 | 1️⃣ | Foundations | 🟥 HTML | [Odin Recipes](https://sameem420.github.io/Learning-TheOdinProject/HTML/odin-recipes/) |
 | 2️⃣ | Foundations | 🟦 CSS | [Landing Page](https://sameem420.github.io/Learning-TheOdinProject/CSS/landing-page/) |
+| 3️⃣ | Foundations | 🟨 JavaScript | [Rock Paper Scissors](https://sameem420.github.io/Learning-TheOdinProject/JavaScript/rock-paper-scissors/) |
