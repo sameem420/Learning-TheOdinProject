@@ -45,7 +45,7 @@
 | 3️⃣ 7️⃣ | Foundations | 🟡 JavaScript Basics | Project: Rock Paper Scissors |
 | 3️⃣ 8️⃣ | Foundations | 🟡 JavaScript Basics | Clean Code |
 | 3️⃣ 9️⃣ | Foundations | 🟡 JavaScript Basics | Installing Node.js |
-
+| 4️⃣ 0️⃣ | Foundations | 🟡 JavaScript Basics | Arrays and Loops |
 
 
 | Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
