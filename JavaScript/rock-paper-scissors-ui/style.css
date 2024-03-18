@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  margin: 5px;
+}
+#result {
+  text-align: center;
+}
+#scores {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#scores > h3 {
+  margin: 50px;
+}
+h1 {
+  text-align: center;
+}
