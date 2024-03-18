@@ -46,7 +46,8 @@
 | 3️⃣ 8️⃣ | Foundations | 🟡 JavaScript Basics | Clean Code |
 | 3️⃣ 9️⃣ | Foundations | 🟡 JavaScript Basics | Installing Node.js |
 | 4️⃣ 0️⃣ | Foundations | 🟡 JavaScript Basics | Arrays and Loops |
-
+| 4️⃣ 1️⃣ | Foundations | 🟡 JavaScript Basics | DOM Manipulation and Events |
+| 4️⃣ 2️⃣ | Foundations | 🟡 JavaScript Basics | Revisiting Rock Paper Scissors |
 
 | Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
 |-------|:-------:|------------:|------:|
