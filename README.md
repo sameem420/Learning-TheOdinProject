@@ -48,6 +48,7 @@
 | 4️⃣ 0️⃣ | Foundations | 🟡 JavaScript Basics | Arrays and Loops |
 | 4️⃣ 1️⃣ | Foundations | 🟡 JavaScript Basics | DOM Manipulation and Events |
 | 4️⃣ 2️⃣ | Foundations | 🟡 JavaScript Basics | Revisiting Rock Paper Scissors |
+| 4️⃣ 3️⃣ | Foundations | 🟡 JavaScript Basics | Project: Etch-a-Sketch |
 
 | Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
 |-------|:-------:|------------:|------:|
@@ -55,3 +56,6 @@
 | 2️⃣ | Foundations | 🟦 CSS | [Landing Page](https://sameem420.github.io/Learning-TheOdinProject/CSS/landing-page/) |
 | 3️⃣ | Foundations | 🟨 JavaScript | [Rock Paper Scissors](https://sameem420.github.io/Learning-TheOdinProject/JavaScript/rock-paper-scissors/) |
 | 4️⃣ | Foundations | 🟨 JavaScript | [Rock Paper Scissors UI](https://sameem420.github.io/Learning-TheOdinProject/JavaScript/rock-paper-scissors-ui/) |
+| 5️⃣ | Foundations | 🟨 JavaScript | [Etch-a-Sketch](https://sameem420.github.io/Learning-TheOdinProject/JavaScript/project-Etch-a-Sketch/) |
+
+
