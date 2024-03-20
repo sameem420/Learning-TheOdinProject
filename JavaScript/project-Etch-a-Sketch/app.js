@@ -2,6 +2,20 @@ const container = document.querySelector("#container");
 let rows = document.getElementsByClassName("gridRow");
 let cell = document.getElementsByClassName("cell");
 const btnClear = document.querySelector("#btnClear");
+const btnNew = document.querySelector("#btnNew");
+
+let size = 0;
+
+btnNew.addEventListener("click", function () {
+  size = +prompt("number of squares per side for the new grid (Max : 100)");
+
+  Array.from(rows).forEach((item) => {
+    container.removeChild(item);
+  });
+
+  makeRows(size);
+  makeColumns(size);
+});
 
 function makeRows(rowsSize) {
   for (let r = 0; r < rowsSize; r++) {
