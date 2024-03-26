@@ -51,6 +51,7 @@
 | 4️⃣ 3️⃣ | Foundations | 🟡 JavaScript Basics | Project: Etch-a-Sketch |
 | 4️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Object Basics |
 | 4️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Project: Calculator |
+| 4️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Choose Your Path Forward |
 
 | Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
 |-------|:-------:|------------:|------:|
