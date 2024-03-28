@@ -52,6 +52,7 @@
 | 4️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Object Basics |
 | 4️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Project: Calculator |
 | 4️⃣ 4️⃣ | Foundations | 🟡 JavaScript Basics | Choose Your Path Forward |
+| 4️⃣ 5️⃣ | Full Stack JavaScript | 🟣 Intermediate HTML and CSS | Introduction |
 
 | Project #️⃣ | 📂 Section | 📚 Sub-Section | 📖 Preview URL |
 |-------|:-------:|------------:|------:|
